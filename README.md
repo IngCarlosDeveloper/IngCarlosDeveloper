@@ -7,20 +7,20 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en: [https://github.com/IngCarlosDeveloper](https://github.com/IngCarlosDeveloper)
 
-- 💬 Preguntame sobre **Python, PHP, Javascript, C++, automatización de procesos**
+- 💬 Preguntame sobre **Python, PHP, Javascript, C++ o automatización de procesos**
 
 - 📫 contactame **carlosmlopez1797@gmail.com**
 
 <h1 align="center">Hi 👋, I´m Carlos López</h1>
-<h3 align="center">I´m a Systems engineer and Full Stack Developer from Venezuela </h3>
+<h3 align="center">I´m a Systems Engineer and Full Stack Developer from Venezuela </h3>
 
 - 🔭 I´m currently working on **Total Master | Web E-commerce**
 
-- 🌱 I´m learning about **Diversidad de lenguajes y tecnologias utiles para mis proyectos**
+- 🌱 I´m learning about a **Variety of languages and technologies that will be useful for my projects**
 
-- 👨‍💻 All my proyects are in: [https://github.com/IngCarlosDeveloper](https://github.com/IngCarlosDeveloper)
+- 👨‍💻 All my projects are in: [https://github.com/IngCarlosDeveloper](https://github.com/IngCarlosDeveloper)
 
-- 💬 Ask me about **Python, PHP, Javascript, C++, automatización de procesos**
+- 💬 Ask me about **Python, PHP, Javascript, C++ or process automation**
 
 - 📫 contact me **carlosmlopez1797@gmail.com**
 
