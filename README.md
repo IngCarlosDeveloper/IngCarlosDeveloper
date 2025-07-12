@@ -10,8 +10,6 @@
 - 💬 Preguntame sobre **Python, PHP, Javascript, C++, automatización de procesos**
 
 - 📫 contactame **carlosmlopez1797@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
