@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Carlos López</h1>
-<h3 align="center">Soy un Ing. en Sistemas y Full Stack Developer de Venezuela </h3>
+<h3 align="center">Soy un Ingeniero en Sistemas y Full Stack Developer de Venezuela </h3>
 
 - 🔭 Actualmente estoy trabajando en **Total Master | Web E-commerce**
 
